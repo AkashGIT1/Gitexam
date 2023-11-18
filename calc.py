@@ -14,4 +14,5 @@ if op=='*':
     multiply(a,b)
 if op=='/':
     divide(a,b)
+    print(a-b)
 
